@@ -1,14 +1,14 @@
-# SVM41 Firmware Releases
+# SVM4x Firmware Releases
 
-This repository contains up-to-date firmware releases for the [SEK-SVM41
+This repository contains up-to-date firmware releases for the [SEK-SVM4x
 Evaluation Kit](https://sensirion.com/products/catalog/SEK-SVM4x/).
 
-If you have an SEK-SVM41 module with an outdated firmware, please download our
+If you have an SEK-SVM4X module with an outdated firmware, please download our
 Sensirion Evaluation Kit Software [ControlCenter
 ](https://sensirion.com/products/sensor-evaluation/control-center/)
  and update the module according to the applications instructions on startup.
  
-Make sure you have the SEK-SVM41 evaluation kit plugged into your computer
+Make sure you have the SEK-SVM4x evaluation kit plugged into your computer
  using the provided cable.
  
 If no pop-up message appears, advising you to update your firmware, you can 
